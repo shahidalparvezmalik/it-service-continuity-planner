@@ -1,0 +1,1 @@
+A small rules-based demo for continuity reviews: it flags missing ownership, unconfirmed dependencies, missing backup evidence, and overdue exercise dates in fictional service records. No live integrations or recovery actions. #IrishTech #IrishITTech #Ireland
