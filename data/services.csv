@@ -1,0 +1,6 @@
+service_id,service_name,criticality,owner,rto_hours,rpo_hours,dependency_map_confirmed,backup_evidence,last_test_date,next_test_due
+SVC-001,Email and collaboration,high,Messaging team,4,1,yes,yes,2026-06-10,2027-06-10
+SVC-002,Customer portal,critical,Digital services,2,0.5,no,yes,2025-09-01,2026-09-01
+SVC-003,File services,high,,8,4,yes,no,,2026-12-01
+SVC-004,Payroll application,high,Business applications,8,24,yes,yes,2026-01-15,2027-01-15
+SVC-005,Network access,critical,Network team,2,1,no,no,2025-10-20,2026-10-20
