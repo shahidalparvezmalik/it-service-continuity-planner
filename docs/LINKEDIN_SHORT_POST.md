@@ -1,7 +1,7 @@
-Draft feed post. Add the LinkedIn article URL after publishing.
+When a recovery plan lists an owner, a backup, and an exercise date, what evidence tells us the service can actually be restored?
 
-Recovery readiness starts with evidence: a named owner, known dependencies, backup evidence, and a recent exercise. I built a small rules-based demo to flag gaps in fictional service records. It does not test recovery or connect to live systems; every result needs human review.
+This article looks at a small rules-based proof of concept that flags incomplete continuity records for human review. Its five sample services are fictional; it does not connect to live systems or test recovery.
 
 👉 Read the full article and share your perspective
 
-#IrishTech #IrishITTech #Ireland #ITOperations #DisasterRecovery
+#IrishTech #IrishITTech #Ireland #ITOperations #ServiceContinuity
