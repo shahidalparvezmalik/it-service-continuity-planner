@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="500" viewBox="0 0 1600 500">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1730"/><stop offset="1" stop-color="#163a5c"/></linearGradient><linearGradient id="accent"><stop stop-color="#57d2c5"/><stop offset="1" stop-color="#8be0a8"/></linearGradient></defs>
+<rect width="1600" height="500" rx="28" fill="url(#bg)"/>
+<circle cx="1325" cy="245" r="148" fill="none" stroke="#2b5a77" stroke-width="2"/><circle cx="1325" cy="245" r="112" fill="none" stroke="#2b5a77" stroke-width="2"/><circle cx="1325" cy="245" r="72" fill="#122a45" stroke="url(#accent)" stroke-width="5"/>
+<path d="M1325 155v90l68 42" fill="none" stroke="#8be0a8" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/><path d="M1248 248h-62m278 0h-62M1325 168v-52" fill="none" stroke="#57d2c5" stroke-width="6" stroke-linecap="round"/><circle cx="1186" cy="248" r="10" fill="#57d2c5"/><circle cx="1479" cy="248" r="10" fill="#57d2c5"/><circle cx="1325" cy="116" r="10" fill="#57d2c5"/>
+<text x="110" y="172" fill="#8be0a8" font-family="Arial,sans-serif" font-size="25" font-weight="700" letter-spacing="5">IT OPERATIONS • CONTINUITY</text>
+<text x="110" y="255" fill="#f3f7fb" font-family="Arial,sans-serif" font-size="57" font-weight="700">Service Continuity</text>
+<text x="110" y="322" fill="#f3f7fb" font-family="Arial,sans-serif" font-size="57" font-weight="700">&amp; Recovery Readiness</text>
+<text x="110" y="385" fill="#b8c9d8" font-family="Arial,sans-serif" font-size="24">A human-reviewed, synthetic-data proof of concept</text>
+</svg>
