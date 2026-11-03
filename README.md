@@ -1,3 +1,5 @@
+![IT Service Continuity & Recovery Readiness banner](docs/images/continuity-readiness-banner.svg)
+
 # IT Service Continuity & Recovery Readiness
 
 A small, runnable proof of concept for reviewing service recovery information before a continuity or disaster-recovery exercise.
@@ -34,6 +36,7 @@ The project does not calculate business impact, define recovery objectives, prio
 - `tests/`: unit tests
 - `docs/DATA_DICTIONARY.md`: field definitions and boundaries
 - `docs/OPERATING_MODEL.md`: suggested human review sequence
+- `docs/images/continuity-readiness-banner.svg`: project banner
 - `docs/LINKEDIN_ARTICLE.md`: copy-ready article draft
 - `docs/LINKEDIN_SHORT_POST.md`, `LINKEDIN_GROUPS_POST.md`: promotional drafts
 
